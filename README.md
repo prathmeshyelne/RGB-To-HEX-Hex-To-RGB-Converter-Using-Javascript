@@ -1,1 +1,1 @@
-# RGB-To-HEX-Hex-To-RGB-Converter-Using-Javascript
+# RGB-To-HEX-&-Hex-To-RGB-Converter-Using-Javascript
